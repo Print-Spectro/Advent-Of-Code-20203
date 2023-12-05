@@ -93,7 +93,8 @@ int day1puzzle() {
 	return total;
 }
 
-
+/*
 int main() {
 	std::cout << day1puzzle();
 }
+*/
